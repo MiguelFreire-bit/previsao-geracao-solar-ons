@@ -1,0 +1,17 @@
+
+# Organização inicial do P1
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/processed/*
+!data/processed/.gitkeep
+Thumbs.db
+Desktop.ini
+.DS_Store
+/organizar_p1.py
